@@ -1,5 +1,6 @@
 .flex-container {
   display: flex;
+  flex-direction: column;
 }
 
 ul {
@@ -29,4 +30,13 @@ li a:hover {
 #machine-list {
   display: block;
   color: red;
+}
+
+div {
+  width: 80%;
+  margin-left: 5em;
+}
+
+iframe {
+  margin-top: 2em;
 }
