@@ -21,3 +21,8 @@ li a {
 li a:hover {
   background-color: #111111;
 }
+
+#machine-list {
+  display: block;
+  color: red;
+}
