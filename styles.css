@@ -40,3 +40,7 @@ div {
 iframe {
   margin-top: 2em;
 }
+
+table td {
+  border: solid red;
+}
